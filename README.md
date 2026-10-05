@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Sobre o Projeto
+## Sobre o Repositório
 
 **Laboratórios — Programação Orientada a Objetos** é um repositório acadêmico desenvolvido durante a graduação em **Análise e Desenvolvimento de Sistemas**, dedicado ao registro das atividades práticas realizadas na disciplina de Programação Orientada a Objetos (POO).
 
